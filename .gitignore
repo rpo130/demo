@@ -1,0 +1,18 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/.idea
+/abcdchooser-gui/.idea
+/abcdchooser-gui/output.csv
+/md5-gui/.gitignore
+/abcdchooser-gui/.gitignore
+/abcdchooser-gui/gradle/wrapper/gradle-wrapper.jar
+/md5-gui/gradle/wrapper/gradle-wrapper.jar
+/md5-gui/gradle/wrapper/gradle-wrapper.properties
+/abcdchooser-gui/gradle/wrapper/gradle-wrapper.properties
+/abcdchooser-gui/gradlew
+/md5-gui/gradlew
+/abcdchooser-gui/gradlew.bat
+/md5-gui/gradlew.bat
